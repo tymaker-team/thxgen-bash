@@ -1,8 +1,4 @@
 #!/bin/sh
-# ^E^@^F^A^@^Pjava/lang/Object^A^@^F<init>^A^@^C()V     ^@^H^@$
-# ^L^@^K^@^L^A^@^Pjava/lang/System^A^@^Cout^A^@^ULjava/io/PrintStream;^H^@^N^A^@$
-# ^@^P^@^Q^G^@^R^L^@^S^@^T^A^@^Sjava/io/PrintStream^A^@^Gprintln^A^@^U(Ljava/lan$
-# ^@^W^@^^^L^@^E^@^_^A^@^X(Ljava/io/InputStream;)V^H^@!^A^
 printf "Welcome to thxgen-bash! \033[1;31mplease\033[0m do not input a/an in any of the questions.\n"
 read -p "Who are you writing to? " one
 read -p "What gift did you get from $one? e.g.: 'shirt' " two
