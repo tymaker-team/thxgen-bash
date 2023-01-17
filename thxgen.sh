@@ -1,5 +1,5 @@
 #!/bin/sh
-printf "Welcome to thxgen-bash! \033[1;31mplease\033[0m do not input a/an in any of the questions.\n"
+printf "Welcome to thxgen.sh! \033[1;31mplease\033[0m do not input a/an in any of the questions.\n"
 read -p "Who are you writing to? " one
 read -p "What gift did you get from $one? e.g.: 'shirt' " two
 read -p "What kind of party did you invite $one to? e.g.: baby shower " thr
